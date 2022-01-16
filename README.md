@@ -4,8 +4,8 @@ This project is a POC of how to extract text from the image.
 
 # Prerequisites
 
-Tesseract-OCR [https://github.com/UB-Mannheim/tesseract/wiki]
-Python 3.5+
+1. Tesseract-OCR [https://github.com/UB-Mannheim/tesseract/wiki]
+2. Python 3.5+
 
 # Cloning the project
 Step 1: Using the Git CLI, copy the following command:
